@@ -1,0 +1,12 @@
+C:\Users\faust\Desktop\NavarreteFausto\ConectarDatos\bin\Debug\ConectarDatos.dll.config
+C:\Users\faust\Desktop\NavarreteFausto\ConectarDatos\bin\Debug\ConectarDatos.dll
+C:\Users\faust\Desktop\NavarreteFausto\ConectarDatos\bin\Debug\ConectarDatos.pdb
+C:\Users\faust\Desktop\NavarreteFausto\ConectarDatos\bin\Debug\EntityFramework.dll
+C:\Users\faust\Desktop\NavarreteFausto\ConectarDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\faust\Desktop\NavarreteFausto\ConectarDatos\bin\Debug\EntityFramework.xml
+C:\Users\faust\Desktop\NavarreteFausto\ConectarDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\faust\Desktop\NavarreteFausto\ConectarDatos\obj\Debug\ConectarDatos.csprojAssemblyReference.cache
+C:\Users\faust\Desktop\NavarreteFausto\ConectarDatos\obj\Debug\ConectarDatos.csproj.CoreCompileInputs.cache
+C:\Users\faust\Desktop\NavarreteFausto\ConectarDatos\obj\Debug\ConectarDatos.csproj.CopyComplete
+C:\Users\faust\Desktop\NavarreteFausto\ConectarDatos\obj\Debug\ConectarDatos.dll
+C:\Users\faust\Desktop\NavarreteFausto\ConectarDatos\obj\Debug\ConectarDatos.pdb
